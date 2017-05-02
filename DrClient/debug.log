@@ -1,0 +1,132 @@
+17-05-02 22:34:47 F:../DrcomClient/main.cpp L:30 C:test
+17-05-02 22:34:47 Object::connect: No such slot Drcomauthsvr::getReturn()
+17-05-02 22:34:47 F:../DrcomClient/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/linux-zdy/??/DrClient/
+17-05-02 22:34:48 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U62) Build(k10.20111223)
+17-05-02 22:34:48 F:../DrcomClient/drauthcomm.cpp L:139 C:AUT 00000000
+17-05-02 22:34:48 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:34:51 QProcess: Destroyed while process is still running.
+17-05-02 22:43:51 F:../DrcomClient/main.cpp L:30 C:test
+17-05-02 22:43:51 Object::connect: No such slot Drcomauthsvr::getReturn()
+17-05-02 22:43:51 F:../DrcomClient/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/linux-zdy/??/DrClient/
+17-05-02 22:43:52 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U62) Build(k10.20111223)
+17-05-02 22:43:52 F:../DrcomClient/drauthcomm.cpp L:139 C:AUT 00000000
+17-05-02 22:43:52 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:44:12 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U62) Build(k10.20111223)
+17-05-02 22:44:12 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:44:12 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:1)......
+17-05-02 22:44:22 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????(??????03000000:1)???......
+17-05-02 22:44:22 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:2)......
+17-05-02 22:44:33 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????(??????03000000:2)???......
+17-05-02 22:44:33 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:3)......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(????????1:1)......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????[????????2]......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????222.24.63.10......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????????......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????????......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????......
+17-05-02 22:44:44 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI ERR ?????????????????????????�?�??????
+17-05-02 22:45:51 F:../DrcomClient/msgmgr.cpp L:86 C:
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U62) Build(k10.20111223)
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(????????1:1)......
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????222.24.63.10......
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????????......
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????????......
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????......
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI OK 02903109789 0 0 0 0 Null 172.16.43.200 222.24.63.10 000000000000
+17-05-02 22:46:05 QSqlDatabasePrivate::removeDatabase: connection 'qt_sql_default_connection' is still in use, all queries will cease to work.
+17-05-02 22:46:05 QSqlDatabasePrivate::addDatabase: duplicate connection name 'qt_sql_default_connection', old connection removed.
+17-05-02 22:46:05 F:../DrcomClient/updatemanager.cpp L:27 C:/DRCLIENT/UPDATE?TIME=20170502224605&TYPE=0006&KEY=&HASH=d31a54b42a5ba5b3226c2a77fd70943f&VER=1.0.0.201111111.Q.L.A&RND=543488&CHK=d66f11c9&M=ec473cd64face2c4166bc414591620d1
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????0??0??1??
+
+17-05-02 22:46:05 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 0 0 0 0 0 0 4294967295 4294967295
+17-05-02 22:46:08 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U64) Build(k10.20111223)
+17-05-02 22:46:12 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 6 10 7 0 0 0 4294967295 4294967295
+17-05-02 22:46:32 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 26 58 198 0 0 0 4294967295 4294967295
+17-05-02 22:46:52 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 46 58 198 0 0 0 4294967295 4294967295
+17-05-02 22:47:12 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 66 59 199 0 0 0 4294967295 4294967295
+17-05-02 22:47:32 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 86 63 202 0 0 0 4294967295 4294967295
+17-05-02 22:47:52 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 106 63 202 0 0 0 4294967295 4294967295
+17-05-02 22:48:12 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 126 85 251 0 0 0 4294967295 4294967295
+17-05-02 22:48:32 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 146 152 909 0 0 0 4294967295 4294967295
+17-05-02 22:48:59 F:../DrcomClient/main.cpp L:30 C:test
+17-05-02 22:48:59 Object::connect: No such slot Drcomauthsvr::getReturn()
+17-05-02 22:48:59 F:../DrcomClient/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/linux-zdy/??/DrClient/
+17-05-02 22:49:00 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U62) Build(k10.20111223)
+17-05-02 22:49:00 F:../DrcomClient/drauthcomm.cpp L:139 C:AUT 00000000
+17-05-02 22:49:00 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:49:03 F:../DrcomClient/drauthcomm.cpp L:139 C:SUC 
+17-05-02 22:49:03 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:1)......
+17-05-02 22:49:13 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????(??????03000000:1)???......
+17-05-02 22:49:13 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:2)......
+17-05-02 22:49:24 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????(??????03000000:2)???......
+17-05-02 22:49:24 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(??????03000000:3)......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????(????????1:1)......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????[????????2]......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ?????????????222.24.63.10......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????????......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ??????????????......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???????????......
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI OK 02903109789 1153 4 0 0 Null 172.16.43.200 222.24.63.10 000000000000
+17-05-02 22:49:35 F:../DrcomClient/updatemanager.cpp L:27 C:/DRCLIENT/UPDATE?TIME=20170502224935&TYPE=0000&KEY=&HASH=d31a54b42a5ba5b3226c2a77fd70943f&VER=1.0.0.201111111.Q.L.A&RND=656378&CHK=a88dce54&M=ec473cd64face2c4166bc414591620d1
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:STM ???(????)?????(???):
+	?????1.126 MB
+	?????0??0??4????	
+
+17-05-02 22:49:35 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 0 0 0 4 1153 0 4294967295 4294967295
+17-05-02 22:49:36 F:../DrcomClient/drauthcomm.cpp L:139 C:VER 0.8 ldrv1.0(U64) Build(k10.20111223)
+17-05-02 22:49:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 4 0 0 4 1153 0 4294967295 4294967295
+17-05-02 22:49:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 24 0 0 4 1153 0 4294967295 4294967295
+17-05-02 22:50:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 44 0 1 4 1153 0 4294967295 4294967295
+17-05-02 22:50:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 64 1 1 4 1153 0 4294967295 4294967295
+17-05-02 22:50:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 84 1 2 4 1153 0 4294967295 4294967295
+17-05-02 22:51:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 104 1 2 4 1153 0 4294967295 4294967295
+17-05-02 22:51:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 124 1 2 4 1153 0 4294967295 4294967295
+17-05-02 22:51:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 144 2 3 4 1153 0 4294967295 4294967295
+17-05-02 22:52:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 164 2 3 4 1153 0 4294967295 4294967295
+17-05-02 22:52:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 184 2 3 4 1153 0 4294967295 4294967295
+17-05-02 22:52:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 204 2 4 4 1153 0 4294967295 4294967295
+17-05-02 22:53:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 224 2 4 4 1153 0 4294967295 4294967295
+17-05-02 22:53:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 244 2 4 4 1153 0 4294967295 4294967295
+17-05-02 22:53:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 264 3 4 4 1153 0 4294967295 4294967295
+17-05-02 22:54:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 284 3 5 4 1153 0 4294967295 4294967295
+17-05-02 22:54:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 304 3 5 4 1153 0 4294967295 4294967295
+17-05-02 22:54:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 324 4 12 4 1153 0 4294967295 4294967295
+17-05-02 22:55:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 344 4 12 4 1153 0 4294967295 4294967295
+17-05-02 22:55:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 364 4 13 4 1153 0 4294967295 4294967295
+17-05-02 22:55:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 384 5 13 4 1153 0 4294967295 4294967295
+17-05-02 22:56:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 404 5 14 4 1153 0 4294967295 4294967295
+17-05-02 22:56:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 424 5 14 4 1153 0 4294967295 4294967295
+17-05-02 22:56:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 444 5 14 4 1153 0 4294967295 4294967295
+17-05-02 22:57:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 464 5 15 4 1153 0 4294967295 4294967295
+17-05-02 22:57:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 484 5 15 4 1153 0 4294967295 4294967295
+17-05-02 22:57:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 504 6 15 4 1153 0 4294967295 4294967295
+17-05-02 22:58:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 524 6 15 4 1153 0 4294967295 4294967295
+17-05-02 22:58:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 544 6 15 4 1153 0 4294967295 4294967295
+17-05-02 22:58:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 564 6 16 4 1153 0 4294967295 4294967295
+17-05-02 22:59:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 584 6 16 4 1153 0 4294967295 4294967295
+17-05-02 22:59:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 604 6 17 4 1153 0 4294967295 4294967295
+17-05-02 22:59:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 624 7 17 4 1153 0 4294967295 4294967295
+17-05-02 23:00:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 644 7 18 4 1153 0 4294967295 4294967295
+17-05-02 23:00:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 664 7 18 4 1153 0 4294967295 4294967295
+17-05-02 23:00:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 684 7 18 4 1153 0 4294967295 4294967295
+17-05-02 23:01:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 704 8 19 4 1153 0 4294967295 4294967295
+17-05-02 23:01:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 724 8 19 4 1153 0 4294967295 4294967295
+17-05-02 23:01:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 744 8 19 4 1153 0 4294967295 4294967295
+17-05-02 23:02:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 764 8 19 4 1153 0 4294967295 4294967295
+17-05-02 23:02:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 784 8 20 4 1153 0 4294967295 4294967295
+17-05-02 23:02:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 804 8 20 4 1153 0 4294967295 4294967295
+17-05-02 23:03:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 824 9 20 4 1153 0 4294967295 4294967295
+17-05-02 23:03:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 844 9 20 4 1153 0 4294967295 4294967295
+17-05-02 23:03:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 864 9 21 4 1153 0 4294967295 4294967295
+17-05-02 23:04:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 884 9 21 4 1153 0 4294967295 4294967295
+17-05-02 23:04:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 904 9 21 4 1153 0 4294967295 4294967295
+17-05-02 23:04:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 924 9 22 4 1153 0 4294967295 4294967295
+17-05-02 23:05:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 944 10 22 4 1153 0 4294967295 4294967295
+17-05-02 23:05:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 964 57 337 4 1153 0 4294967295 4294967295
+17-05-02 23:05:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 984 156 920 4 1153 0 4294967295 4294967295
+17-05-02 23:06:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 1004 224 1457 4 1153 0 4294967295 4294967295
+17-05-02 23:06:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 1024 225 1458 4 1153 0 4294967295 4294967295
+17-05-02 23:06:59 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 1044 245 1486 4 1153 0 4294967295 4294967295
+17-05-02 23:07:19 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 1064 247 1489 4 1153 0 4294967295 4294967295
+17-05-02 23:07:39 F:../DrcomClient/drauthcomm.cpp L:139 C:LGI STM 1084 247 1489 4 1153 0 4294967295 4294967295
